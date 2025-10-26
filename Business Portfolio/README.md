@@ -18,7 +18,7 @@ These materials were created as part of a **course design brief** and **freelanc
 ## Included Designs
 
 
-**Price List / Catalogue** A detailed product/service list with pricing, structured for easy readability and print layout. | `PNG image 6.png`
+**Price List / Catalogue** A detailed product/service list with pricing, structured for easy readability and print layout. | `PNG image 6.png`        
 **Pamphlet / Poster** A one-page visual advertisement used for promotions and business branding. | `PNG image 5.png`
 
 
