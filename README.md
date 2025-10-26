@@ -15,7 +15,7 @@ Each project demonstrates:
 
 ---
 
-## Tools & Technologies
+## Tools
 
 - **Canva** – for posters, logos, and layout design    
 - **Adobe Photoshop / Illustrator** – for vector and image editing  
