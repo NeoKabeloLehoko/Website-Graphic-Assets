@@ -18,7 +18,7 @@ These materials were created as part of a **course design brief** and **freelanc
 ## Included Designs
 
 
-**Price List / Catalogue** A detailed product/service list with pricing, structured for easy readability and print layout. | `PNG image 6.png`        
+**Price List / Catalogue** A detailed service list with pricing, structured for easy readability and print layout. | `PNG image 6.png`        
 **Pamphlet / Poster** A one-page visual advertisement used for promotions and business branding. | `PNG image 5.png`
 
 
@@ -28,7 +28,7 @@ These materials were created as part of a **course design brief** and **freelanc
 ## Tools/ Technologies Used
 
 - **Canva** – for layout, branding, and typography design  
-- **Adobe Illustrator / Photoshop** – for image editing and vector work (where applicable)  
+- **Adobe Express** – for image editing and vector work 
 
 
 ---
