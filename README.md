@@ -19,5 +19,9 @@ Each project demonstrates:
 - **Canva** – for posters, logos, and layout design    
 - **Adobe Photoshop / Illustrator** – for vector and image editing  
 - **HTML5 & CSS3** – for responsive website templates  
-- **GitHub Pages** – for web project hosting  
+- **GitHub Pages** – for web project hosting
 
+---
+
+## Projects 
+- Business Portfolio 
