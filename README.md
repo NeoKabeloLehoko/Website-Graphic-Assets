@@ -1,7 +1,6 @@
 # Websites and Graphic Assets
 
-This repository showcases my **design and branding work**, including websites, logos, posters, and portfolio materials created as part of **course projects** and **freelance work**.  
-It highlights my creative process, attention to visual detail, and understanding of both **technical** and **aesthetic** design principles.
+This repository showcases my **design and branding work**, including websites, logos, posters, and portfolio materials created as part of **course projects** and **freelance work**.It highlights my creative process, attention to visual detail, and understanding of both **technical** and **aesthetic** design principles.
 
 ---
 
