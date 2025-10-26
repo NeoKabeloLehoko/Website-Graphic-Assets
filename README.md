@@ -10,7 +10,6 @@ It highlights my creative process, attention to visual detail, and understanding
 The **Websites and Graphic Assets** collection represents my ability to blend design and technology — from front-end website layouts to marketing materials for businesses and individuals.
 
 Each project demonstrates:
-- A strong grasp of **visual hierarchy** and **brand identity**
 - Use of **modern design tools**
 - Adaptability for **digital and print media**
 
