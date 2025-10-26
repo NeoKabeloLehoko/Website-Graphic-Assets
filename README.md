@@ -24,4 +24,4 @@ Each project demonstrates:
 ---
 
 ## Projects 
-- [** Business Portfolio **](./Business Portfolio)
+- - [**Business Portfolio**](./Business%20Portfolio)
