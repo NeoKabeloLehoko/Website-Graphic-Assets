@@ -25,4 +25,4 @@ Each project demonstrates:
 
 ## Projects 
 -  [**Business Portfolio**](./Business%20Portfolio)
--  [**Personal Portfolio**](./NeoKabeloLehoko/Neo_Portfolio)
+-  [**Personal Portfolio**](https://github.com/NeoKabeloLehoko/Neo_Portfolio)
