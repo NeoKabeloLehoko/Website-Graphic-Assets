@@ -18,8 +18,8 @@ These materials were created as part of a **course design brief** and **freelanc
 ## Included Designs
 
 
-**Price List** A detailed service list with pricing, structured for easy readability and print layout. | `PNG image 6.png`        
-**Poster** A one-page visual advertisement used for promotions and business branding. | `PNG image 5.png`
+- **Price List** A detailed service list with pricing, structured for easy readability and print layout. | `PNG image 6.png`        
+- **Poster** A one-page visual advertisement used for promotions and business branding. | `PNG image 5.png`
 
 
 
@@ -42,7 +42,8 @@ These materials were created as part of a **course design brief** and **freelanc
 
 ---
 
-## Previews
+## Reference 
+Contact Mr T Lebona @Inkanyetitrading@gmail.com 
 
 
 
