@@ -1,11 +1,11 @@
-#Websites and Graphic Assets
+# Websites and Graphic Assets
 
 This repository showcases my **design and branding work**, including websites, logos, posters, and portfolio materials created as part of **course projects** and **freelance work**.  
 It highlights my creative process, attention to visual detail, and understanding of both **technical** and **aesthetic** design principles.
 
 ---
 
-##Overview
+## Overview
 
 The **Websites and Graphic Assets** collection represents my ability to blend design and technology — from front-end website layouts to marketing materials for businesses and individuals.
 
@@ -16,7 +16,7 @@ Each project demonstrates:
 
 ---
 
-##Tools & Technologies
+## Tools & Technologies
 
 - **Canva** – for posters, logos, and layout design    
 - **Adobe Photoshop / Illustrator** – for vector and image editing  
