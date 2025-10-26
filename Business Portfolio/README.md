@@ -1,6 +1,6 @@
 # Business Portfolio Design
 
-This folder showcases my **Business Portfolio Design Project**, which includes a **price list/catalogue** and a **promotional pamphlet/poster**.  
+This folder showcases my **Business Portfolio Design Project**, which includes a **price list or catalogue** and a **promotional pamphlet or poster**.  
 The project demonstrates my ability to combine creativity, branding, and layout design to produce professional business marketing materials.
 
 ---
@@ -19,7 +19,7 @@ These materials were created as part of a **course design brief** and **freelanc
 
 
 **Price List / Catalogue** A detailed product/service list with pricing, structured for easy readability and print layout. | `PNG image 6.png`
-**Pamphlet / Poster** A one-page visual advertisement used for promotions and business branding. | 'PNG image 5.png`
+**Pamphlet / Poster** A one-page visual advertisement used for promotions and business branding. | `PNG image 5.png`
 
 
 
